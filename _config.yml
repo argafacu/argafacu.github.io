@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Home"
-  avatar           : "profile.png"
+  avatar           : "images/facundo.jpg"
   bio              : "I was born in Tucuman, a small NortWestent state of Argentina. Fan of Lio Messi, Asado, and Fernet."
-  location         : "Location"
+  location         : "Madrid, Spain"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
