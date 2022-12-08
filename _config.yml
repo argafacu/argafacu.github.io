@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-Sapin"
-title                    : "Facundo Argañaraz / Facundo's Personal Site"
+title                    : "Facundo Argañaraz"
 title_separator          : "-"
 name                     : &name "Facundo Argañaraz"
-description              : &description "Facundo's Personal Site"
+description              : &description ""
 url                      :  "https://argafacu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "argafacu.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Home"
+  name             : ""
   avatar           : "facundo.jpg"
   bio              : "I was born in Tucuman, a small NortWestent state of Argentina. Fan of Lio Messi, Asado, and Fernet."
   location         : "Madrid, Spain"
