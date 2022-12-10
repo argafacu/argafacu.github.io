@@ -15,5 +15,5 @@ I am a fourth-year Ph.D. student in Economics at [Universidad Carlos III de Madr
 
 I work on Econometrics. My research interests span Identification, Estimation, and Inference of Semiparametric Models. 
 
-This is my [cv](files/CV_FacundoArga_araz.pdf)
+This is my [cv](http://argafacu.github.io/files/CV_FacundoArga_araz.pdf)
 
