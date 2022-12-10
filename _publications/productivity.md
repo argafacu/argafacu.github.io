@@ -4,9 +4,7 @@ collection: publications
 permalink: /publication/productivity
 excerpt: 
 date: June 2018
-venue: ''
 paperurl:  ''
-citation: ''
 ---
 This paper was part of the requisites for obtaining a degree in Economics at Universidad Nacional de Tucumán. This work was undertaken under the supervision of María José Granado (INVECO-UNT).
 
