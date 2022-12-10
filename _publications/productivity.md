@@ -2,7 +2,15 @@
 title: "Productivity vs. Management: What Matters in the Export Process?"
 collection: publications
 permalink: /publication/productivity
-excerpt: In this paper, both a theoretical and an empirical model to study the contribution
+excerpt: 
+date: June 2018
+venue: ''
+paperurl:  ''
+citation: ''
+---
+This paper was part of the requisites for obtaining a degree in Economics at Universidad Nacional de Tucumán. This work was undertaken under the supervision of María José Granado (INVECO-UNT).
+
+Abstract: In this paper, both a theoretical and an empirical model to study the contribution
 of productivity and management practices on exporter status are
 presented. On the theoretical side, a multiple heterogeneity model is developed,
 where firms can differ in their levels of two different kinds of productivity:
@@ -24,9 +32,3 @@ similar in magnitude. Thanks to my work, I have identified some particular
 strategies firms should mainly focus on. Indeed, I suggest that obtaining ISO
 certifications, offering training programs to employees and using services or
 programs to promote exports are important for being an exporter.
-date: June 2018
-venue: ''
-paperurl:  ''
-citation: ''
----
-This paper was part of the requisites for obtaining a degree in Economics at Universidad Nacional de Tucumán. This work was undertaken under the supervision of María José Granado (INVECO-UNT).
