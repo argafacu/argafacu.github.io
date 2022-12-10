@@ -14,16 +14,7 @@ the rest of the world, the model not only shows which firms survive in the
 domestic market but also which ones export. Therefore, the most productive
 firms would not necessarily export, because export decision also depends on
 how effectively firms carry out a set of management practices to adapt their
-product to foreign demand. On the empirical side, productivity and management
-practices at firm level are measured by using several methods and
-specifications to identify their effect on exporter status, exploiting the waves
-of The World Bank Enterprise Surveys of 2006, 2010 and 2017 for Argentina.
-The main results indicate that both productivity and management practices
-affect positively the probability of being an exporter, and their effects are very
-similar in magnitude. Thanks to my work, I have identified some particular
-strategies firms should mainly focus on. Indeed, I suggest that obtaining ISO
-certifications, offering training programs to employees and using services or
-programs to promote exports are important for being an exporter.
+product to foreign demand. 
 date: June 2018
 venue: ''
 paperurl:  ''
