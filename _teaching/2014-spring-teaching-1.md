@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Applied Economics (Master in Economics Analysis)"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universidad Carlos III de Madrid, Department of Economics"
+date: September 2021 -... 
+location: "Madrid, Spain"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
