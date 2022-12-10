@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Facundo Argañaraz"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
