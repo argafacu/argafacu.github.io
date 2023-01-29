@@ -16,7 +16,7 @@ author_profile: true
  
  </details>
  
-This paper was part of the requisites for obtaining a degree in Economics at Universidad Nacional de Tucumán. This work was undertaken under the supervision of María José Granado (INVECO-UNT). 
+##### This paper was part of the requisites for obtaining a degree in Economics at Universidad Nacional de Tucumán. This work was undertaken under the supervision of María José Granado (INVECO-UNT). 
  
  
  
