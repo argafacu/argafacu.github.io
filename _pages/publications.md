@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Hey there! Welcome to my personal website.
-I am a fourth-year Ph.D. student in Economics at Universidad Carlos III de Madrid.
+#### 2018 - 2024 
 
-I work on Econometrics. My research interests span Identification, Estimation, and Inference of Semiparametric Models.
+ + ##### Productivity vs. Management: What Matters in the Export Process? (2018) 
+ ###### This paper was part of the requisites for obtaining a degree in Economics at Universidad Nacional de Tucumán. This work was undertaken under the supervision of María José Granado (INVECO-UNT).
+ 
+ 
 
-This is my cv.
