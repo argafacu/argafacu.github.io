@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Hey there! Welcome to my personal website.
+I am a fourth-year Ph.D. student in Economics at Universidad Carlos III de Madrid.
 
-{% include base_path %}
+I work on Econometrics. My research interests span Identification, Estimation, and Inference of Semiparametric Models.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+This is my cv.
