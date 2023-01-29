@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### 2018 - 2024 
+### 2018 - 2024 
 
 [Productivity vs. Management: What Matters in the Export Process? (2018)](https://drive.google.com/file/d/1m-2sZ8UNMFSvLqU12fidA5H8K1TOKkxo/view?usp=sharing) 
  <details>
@@ -16,7 +16,7 @@ author_profile: true
  
  </details>
  
- ###### This paper was part of the requisites for obtaining a degree in Economics at Universidad Nacional de Tucumán. This work was undertaken under the supervision of María José Granado (INVECO-UNT). 
+This paper was part of the requisites for obtaining a degree in Economics at Universidad Nacional de Tucumán. This work was undertaken under the supervision of María José Granado (INVECO-UNT). 
  
  
  
