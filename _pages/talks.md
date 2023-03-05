@@ -11,7 +11,7 @@ author_profile: true
 
 [**Goodness-of-Fit, Change-ponits, and related problems**.](https://ensai.fr/en/event/gofcp-2022/) ENSAI, Rennes, France. 2-4 September, 2022.
 
-[**European Network for Training in Economic Research (ENTER) - Jamboree 2022**.](https://drive.google.com/file/d/1CL2nxTXYBvwoeLGXm0SIyFKpWZJp4r8v/view) Universitat Autònoma de Barcelona, Barcelona, Spain. 20-21 June, 2022.
+[**European Network for Training in Economic Research (ENTER) - Jamboree 2022**.](https://drive.google.com/file/d/1CL2nxTXYBvwoeLGXm0SIyFKpWZJp4r8v/view) Universitat Autònoma de Barcelona, Barcelona, Spain. 20-21 June, 2022 (*discussant*).
  
  
 
