@@ -13,7 +13,7 @@ Hey there! Welcome to my personal website.
 
 I am a fourth-year Economics Ph.D. student at [Universidad Carlos III de Madrid](http://economics.uc3m.es/). 
 
-I work on Econometrics. My research interests span Identification, Estimation, and Inference of Semiparametric Models. 
+I work on Econometrics. My research interests span Identification, Estimation, and Inference of Semiparametric Models, and I am specially interested in causal inference with Machine Learning settings. 
 
 This is my [cv](http://argafacu.github.io/files/CV_FacundoArga_araz.pdf).
 
