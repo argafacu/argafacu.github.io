@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #fff499; /* $background-color */ 
+  background: #fef9cc; /* $background-color. To change the masthead you have to change here and in masthead (a folder in sass) */ 
 
   a {
     display: block;
