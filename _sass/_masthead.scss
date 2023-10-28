@@ -10,7 +10,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background: #fff499;
+  background: #fef9cc; /* To change the color of masthead. You have to change here and in greedy-nav in navigation (a folder in scss)*/
 
   &__inner-wrap {
     @include container;
