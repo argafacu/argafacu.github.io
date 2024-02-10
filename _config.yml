@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-Sapin"
-title                    : "Facundo Argañaraz"
+title                    : "er"
 title_separator          : "-"
-name                     : &name "Facundo Argañaraz"
-description              : &description "HOLA"
-url                      :  "https://argafacu.github.io"
+name                     : &name "e r"
+description              : &description "test"
+url                      :  "https://serteban.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "argafacu.github.io"
+repository               : "serteban.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "facundo.jpeg"
+  avatar           : "s.jpeg"
   bio              : "I was born in Tucuman, a small Northwestern province of Argentina. Fan of Lio Messi, Asado, and Fernet."
   location         : "Madrid, Spain"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : farganar@eco.uc3m.es
+  email            : s@mail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "facunarga"
+  twitter          : "ser"
   vine             :
   weibo            :
   xing             :
