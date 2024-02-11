@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-Sapin"
-title                    : "$sans-serif"
+title                    : "Juan Esteban Román"
 title_separator          : "-"
 name                     : &name "Juan Esteban Román"
 description              : &description "Hello"
