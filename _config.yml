@@ -10,7 +10,7 @@
 locale                   : "en-Sapin"
 title                    : "Facundo Argañaraz"
 title_separator          : "-"
-name                     : &name "Juan Esteban Román"
+name                     : &name "Facundo Argañaraz"
 description              : &description "Hello"
 url                      :  "https://serteban.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
