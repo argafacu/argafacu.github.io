@@ -8,10 +8,10 @@
 
 # Site Settings
 locale                   : "en-Sapin"
-title                    : "test"
+title                    : "$sans-serif"
 title_separator          : "-"
-name                     : &name "e r"
-description              : &description "test"
+name                     : &name "Juan Esteban Román"
+description              : &description "Hello"
 url                      :  "https://serteban.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "serteban/serteban.github.io"
