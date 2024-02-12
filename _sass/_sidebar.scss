@@ -165,7 +165,7 @@
 .author__urls {
   display: none;
   position: absolute;
-  right: 0;
+  right: -25px;
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
@@ -195,7 +195,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px 10px;
-    border-color: transparent transparent #FF4532 transparent;
+    border-color: transparent transparent #f2f3f3 transparent;
     z-index: 0;
 
     @include breakpoint($large) {
