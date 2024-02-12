@@ -14,7 +14,7 @@ name                     : &name "Facundo Argañaraz"
 description              : &description "HOLA"
 url                      :  "https://argafacu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "argafacu.github.io"
+repository               : "argafacu/argafacu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "facundo.jpeg"
+  avatar           : "facundo.png"
   bio              : "I was born in Tucuman, a small Northwestern province of Argentina. Fan of Lio Messi, Asado, and Fernet."
   location         : "Madrid, Spain"
   employer         :

@@ -17,10 +17,12 @@
 }
 
 .page {
+  @include breakpoint($medium) {
+    @include span(8 of 12 last);
+  }
+
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include span(8.8 of 12 last);
   }
 
   .page__inner-wrap {
@@ -86,13 +88,13 @@
 
   dt {
     margin-top: 1em;
-    font-family: $times;
+    font-family: $sans-serif;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $times;
+    font-family: $sans-serif;
     font-size: $type-size-6;
   }
 
@@ -228,7 +230,7 @@
 .page__meta {
   margin-top: 2em;
   color: mix(#fff, $gray, 25%);
-  font-family: $times;
+  font-family: $sans-serif;
   font-size: $type-size-6;
 
   p {

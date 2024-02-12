@@ -10,13 +10,13 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background: #fef9cc; /* To change the color of masthead. You have to change here and in greedy-nav in navigation (a folder in scss)*/
+  background: #1c1d22; /* To change the color of masthead. You have to change here and in greedy-nav in navigation (a folder in scss)*/
 
   &__inner-wrap {
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $times;
+    font-family: $sans-serif;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -46,6 +46,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background: #1c1d22
 
   &--lg {
     padding-right: 2em;
