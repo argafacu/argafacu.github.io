@@ -160,7 +160,7 @@
   button {
     margin-bottom: 0;
 
-    @include breakpoint($large) {
+    @include breakpoint($medium) {
       display: none;
     }
   }
