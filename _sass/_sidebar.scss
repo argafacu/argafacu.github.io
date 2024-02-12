@@ -16,7 +16,7 @@
   @include breakpoint($medium) {
     @include span(3 of 12);
   }
-  
+
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
@@ -106,7 +106,7 @@
   padding-right: 0px;
   line-height: 1;
 
-  @include breakpoint($large) {
+  @include breakpoint($medium) {
     display: block;
     width: 100%;
     padding-left: 0;
