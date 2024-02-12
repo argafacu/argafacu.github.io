@@ -21,7 +21,7 @@
       {% if author.bio %}<p class="author__bio col">{{ author.bio }}</p>{% endif %}
     </div>
     
-    <div class="author__urls-wrapper" style="top: 12px; display: grid; align-content: center; justify-content: center;">
+    <div class="author__urls-wrapper" style="top: 12px; display: flex; justify-content: start; flex-direction: column; flex-wrap: nowrap;">
       <button class="btn btn--inverse">Follow</button>
       <ul class="author__urls social-icons">
         {% if author.location %}
