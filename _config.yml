@@ -11,10 +11,10 @@ locale                   : "en-Sapin"
 title                    : "Facundo Argañaraz"
 title_separator          : "-"
 name                     : &name "Facundo Argañaraz"
-description              : &description "Hello"
-url                      :  "https://serteban.github.io"
+description              : &description "HOLA"
+url                      :  "https://argafacu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "serteban/serteban.github.io"
+repository               : "argafacu/argafacu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : juanet.17@mail.com
+  email            : farganar@eco.uc3m.es
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ser"
+  twitter          : "facunarga"
   vine             :
   weibo            :
   xing             :

@@ -132,7 +132,7 @@
   font-family: $calisto;
   font-size: $type-size-5;
 
-  @include breakpoint($large) {
+  @include breakpoint($medium) {
     margin-top: 10px;
     margin-bottom: 20px;
   }
