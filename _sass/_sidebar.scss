@@ -51,11 +51,11 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+  width: 200px;
 
   @include breakpoint($large) {
     position: relative;
     float: right;
-    width: 200px;
 //    width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
     z-index: 10;
@@ -164,8 +164,7 @@
 
 .author__urls {
   display: none;
-  position: absolute;
-  right: -25px;
+  position: relative;
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;

@@ -20,7 +20,8 @@
       <h3 class="author__name">{{ author.name }}</h3>
       {% if author.bio %}<p class="author__bio col">{{ author.bio }}</p>{% endif %}
     </div>
-    <div class="author__urls-wrapper">
+    
+    <div class="author__urls-wrapper" style="top: 12px; display: grid; align-content: center; justify-content: center;">
       <button class="btn btn--inverse">Follow</button>
       <ul class="author__urls social-icons">
         {% if author.location %}
@@ -46,7 +47,12 @@
             ResearchGate</a></li>
         {% endif %}
         {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><img src="/images/x-twitter.svg" alt="x-twitter" style="width: 14px; margin-left: 2px;"></img> Twitter</a></li>
+      <li>
+            <a href="https://twitter.com/{{ author.twitter }}">
+                  <img src="/images/x-twitter.svg" alt="x-twitter" style="width: 13px; margin-left: 1px; margin-bottom: 3px;"/>
+                  Twitter
+            </a>
+      </li>
         {% endif %}
         {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square"
