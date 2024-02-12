@@ -3,10 +3,10 @@
    ========================================================================== */
 
 .archive {
-  margin-left: 12px;
   margin-bottom: 2em;
-
+  
   @include breakpoint($medium) {
+    margin-left: 12px;
     @include span(8.2 of 12);
   }
 
