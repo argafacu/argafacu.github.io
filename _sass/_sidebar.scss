@@ -101,7 +101,7 @@
 
 .author__content {
   display: table-cell;
-  vertical-align: top;
+  vertical-align: middle;
   padding-left: 15px;
   padding-right: 0px;
   line-height: 1;
@@ -129,6 +129,7 @@
 
 .author__bio {
   margin: 0;
+  margin-bottom: 4px;
   font-family: $calisto;
   font-size: $type-size-5;
 
