@@ -12,9 +12,9 @@ title                    : "Facundo Argañaraz"
 title_separator          : "-"
 name                     : &name "Facundo Argañaraz"
 description              : &description "HOLA"
-url                      :  "https://argafacu.github.io"
+url                      :  "https://serteban.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "argafacu/argafacu.github.io"
+repository               : "serteban/serteban.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "argafacu"
+  github           : "serteban"
   google_plus      :
   keybase          :
   instagram        :
