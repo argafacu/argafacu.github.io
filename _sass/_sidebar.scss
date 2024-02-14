@@ -81,28 +81,33 @@
   // set width only, for non-square avatars
   // height: 36px;
 
+
+  @include breakpoint($small) {
+    @include span(3 of 12);
+  }
+
   @include breakpoint($large) {
     display: block;
     max-width: 260px;
     max-height: 390px;
   }
-}
 
-.author__img {
-  max-width: 260px;
-  height: auto;
-  min-width: 200px;
- 
- @include breakpoint($large) {
-   padding: 5px;
-   border: 1px solid $border-color;
- }
- 
- @supports(object-fit: cover){
-   height: 100%;
-   object-fit: cover;
-   object-position: center center;
- }
+  img {
+     width: 260px;
+     height: auto;
+     min-width: 200px;
+    
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+    
+    @supports(object-fit: cover){
+      height: 100%;
+      object-fit: cover;
+      object-position: center center;
+    }
+  }
 }
 
 .author__content {
