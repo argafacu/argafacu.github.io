@@ -88,11 +88,11 @@
   }
 
   img {   
-    max-height: 300px;
+    max-height: auto;
     min-width: 200px;
  
     @supports(object-fit: cover){
-       height: 50%;
+       height: 100%;
        object-fit: cover;
        object-position: center center;
      }
