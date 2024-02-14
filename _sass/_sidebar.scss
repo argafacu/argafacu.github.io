@@ -94,11 +94,11 @@
     
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 1px solid
     }
     
     @supports(object-fit: cover){
-      height: 300px;
+      height: 390px;
       object-fit: cover;
       object-position: center center;
     }
