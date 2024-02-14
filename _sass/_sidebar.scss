@@ -81,6 +81,10 @@
   // set width only, for non-square avatars
   // height: 36px;
 
+  @include breakpoint($medium) {
+    @include span(3 of 12);
+  }
+
   @include breakpoint($large) {
     display: block;
     max-width: 260px;
