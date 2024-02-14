@@ -87,27 +87,32 @@
     max-height: 390px;
   }
 
-  img {
-     max-width: 260px;
-     max-height: 390px;
-     min-width: 200px;
+  img {   
+    max-height: 300px;
+    min-width: 200px;
  
-     @supports(object-fit: cover){
+    @supports(object-fit: cover){
        height: 50%;
        object-fit: cover;
        object-position: center center;
      }
 
-     @include breakpoint($medium) {
-      width: 260px;
-      height: auto;
+    @include breakpoint($medium) {
+       height: auto;
     }
-  
+      
     @include breakpoint($large) {
+      max-width: 230px;
       padding: 5px;
       border: 1px solid $border-color;
     }
     
+    @include breakpoint($x-large) {
+      max-width: 260px;
+      max-height: 390px;
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
 }
 
