@@ -88,7 +88,7 @@
   }
 
   img {   
-    max-height: auto;
+    max-height: 30px;
     min-width: 200px;
  
     @supports(object-fit: cover){
@@ -102,14 +102,6 @@
     }
       
     @include breakpoint($large) {
-      max-width: 230px;
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-    
-    @include breakpoint($x-large) {
-      max-width: 260px;
-      max-height: 390px;
       padding: 5px;
       border: 1px solid $border-color;
     }
