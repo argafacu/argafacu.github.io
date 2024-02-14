@@ -97,12 +97,12 @@
        object-position: center center;
      }
 
-    @media (min-width: $medium){
+    @media (min-width: 800px){
       max-width: 300px;
        height: auto;
     }
       
-    @media (min-width: $large){
+    @media (min-width: 1000px){
       max-width: 360px;
       padding: 5px;
       border: 1px solid $border-color;
