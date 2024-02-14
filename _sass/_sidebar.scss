@@ -81,10 +81,6 @@
   // set width only, for non-square avatars
   // height: 36px;
 
-  @include breakpoint($medium) {
-    @include span(3 of 12);
-  }
-
   @include breakpoint($large) {
     display: block;
     max-width: 260px;
@@ -96,17 +92,22 @@
      max-height: 390px;
      min-width: 200px;
  
+     @supports(object-fit: cover){
+       height: 50%;
+       object-fit: cover;
+       object-position: center center;
+     }
+
+     @include breakpoint($medium) {
+      width: 260px;
+      height: auto;
+    }
+  
     @include breakpoint($large) {
-      @include span(3 of 12);
       padding: 5px;
       border: 1px solid $border-color;
     }
     
-    @supports(object-fit: cover){
-      height: 50%;
-      object-fit: cover;
-      object-position: center center;
-    }
   }
 }
 
