@@ -95,6 +95,10 @@
      max-width: 260px;
      max-height: 390px;
      min-width: 200px;
+
+     @include breakpoint($medium) {
+      @include span(3 of 12);
+    }
     
     @include breakpoint($large) {
       padding: 5px;
