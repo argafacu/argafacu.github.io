@@ -23,7 +23,7 @@
     
     <div class="author__urls-wrapper" style="display: flex; justify-content: start; flex-direction: column; flex-wrap: nowrap;">
       <button class="btn btn--inverse" style="top: 12px;" >Follow</button>
-      <ul class="author__urls social-icons">
+      <ul class="author__urls social-icons" style="margin-bottom: 0px;">
         {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
         {% endif %}
