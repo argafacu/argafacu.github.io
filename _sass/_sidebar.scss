@@ -83,13 +83,13 @@
 
   @include breakpoint($large) {
     display: block;
-    max-width: 260px;
     max-height: 390px;
+    max-width: 260px;
   }
 
   img {   
     max-height: 200px !important;
-    min-width: 180px !important;
+    min-width: auto !important;
 
     @supports(object-fit: cover){
        height: 100% !important;
