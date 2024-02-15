@@ -78,14 +78,14 @@
   display: table-cell;
   vertical-align: top;
   width: 300px;
-  height: 300px;
+  height: 200px;
   // set width only, for non-square avatars
   // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    max-height: 390px;
-    max-width: 260px;
+    height: 390px;
+    width: 260px;
   }
 
   img {   
