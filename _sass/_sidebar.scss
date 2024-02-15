@@ -88,24 +88,24 @@
   }
 
   img {   
-    max-height: 200px;
-    min-width: 180px;
- 
+    max-height: 200px !important;
+    min-width: 180px !important;
+
     @supports(object-fit: cover){
-       height: 100%;
-       object-fit: cover;
-       object-position: center center;
+       height: 100% !important;
+       object-fit: cover !important ;
+       object-position: center center !important;
      }
 
     @media (min-width: 800px){
-      max-width: 300px;
-       height: auto;
+      max-width: 300px !important;
+       height: auto !important;
     }
-      
+
     @media (min-width: 1000px){
-      max-width: 360px;
-      padding: 5px;
-      border: 1px solid $border-color;
+      max-width: 360px !important;
+      padding: 5px !important;
+      border: 1px solid $border-color !important;
     }
   }
 }
