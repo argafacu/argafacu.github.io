@@ -97,12 +97,12 @@
        object-position: center center !important;
      }
 
-    @media (min-width: 800px){
+    @include breakpoint($medium) {
       max-width: 300px !important;
        height: auto !important;
     }
 
-    @media (min-width: 1000px){
+    @include breakpoint($large) {
       max-width: 360px !important;
       padding: 5px !important;
       border: 1px solid $border-color !important;
