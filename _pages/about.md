@@ -15,6 +15,8 @@ I am a fifth-year Economics Ph.D. student at [Universidad Carlos III de Madrid](
 
 I work on Econometrics. My research interests span identification, estimation, and inference of semiparametric models, and I am especially interested in causal inference with machine learning.
 
+I am writing my dissertation under the supervision of Prof. [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home)
+
 During the Spring of 2024, I will be visiting [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/).
 
 This is my [cv](http://argafacu.github.io/files/CV_FacundoArga_araz.pdf).
