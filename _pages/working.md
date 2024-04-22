@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2018 - 2024 
 + Compliance Machine Learning Estimator, joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home) Draft coming soon. 
-+ [Automatic Orthogonal Moments for Production Functions Estimation (2023).](https://drive.google.com/file/d/1fTqhtOlvpKZDzRIPcb4DomRTB-Bt_WZK/view?usp=sharing)
++ [Automatic Orthogonality with General Conditional Moment Restrictions (2024).]([https://drive.google.com/file/d/1fTqhtOlvpKZDzRIPcb4DomRTB-Bt_WZK/view?usp=sharing](https://drive.google.com/file/d/11C5zdmqKw0hlESHey-0zSwsBKAmIo5Xr/view?usp=drive_link))
 <dl style="margin-top: -10px;">
   <dd>
     <details>
