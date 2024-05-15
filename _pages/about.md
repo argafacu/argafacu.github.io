@@ -19,6 +19,6 @@ I am writing my dissertation under the supervision of Prof. [Juan Carlos Escanci
 
 During the Spring of 2024, I will be visiting [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/).
 
-I will be on the Academic Job Market 2024-2025. 
+I will be on the **Academic Job Market 2024-2025**. 
 
 This is my [cv](http://argafacu.github.io/files/CV_FacundoArga_araz.pdf).
