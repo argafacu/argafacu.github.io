@@ -6,7 +6,18 @@ author_profile: true
 ---
 
 ### 2018 - 2024 
-+ Compliance Machine Learning Estimator, joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home) Draft coming soon. 
++ Compliance Machine Learning Estimator, joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home) Draft coming soon.
+<dl style="margin-top: -10px;">
+  <dd>
+    <details>
+      <summary>
+        Abstract
+      </summary>
+Methods relying on instrumental variables (IVs) are known to be useful for learning treatment effects in experiments where treatment randomization is not possible. Often, the researcher can use a large class of potentially valid IVs, but is there an \textit{optimal} choice? If so, which one? In this paper, we argue that a measure of the ``strength" of the instrument as predictor of the treatment, conditional on pre-treatment characteristics, leads to an estimator that enjoys three \textit{key} properties: (1) local orthogonality, (2) identification of the parameter of interest under the minimal conditions, and (3) meaningful nonparametric interpretation in terms of conditional local treatment effects, even if defiers are not completely ruled out in the population. In the common situation where the treatment variable is binary, such strength is linked to the probability of complying with the treatment. Therefore, we name this estimator \textit{Compliance Machine Learning Estimator (CML)}. If the researcher's criterion of optimality involves these three attributes, then CML is the optimal choice. We provide theoretical guarantees that support the use of off-the-shelf routines to conduct standard inference on CML, when machine learning tools are used to construct the IV. We study the relative performance of this estimator through a Monte Carlo exercise. Finally, we revisit the Oregon Health Insurance Experiment, analyzed by \cite{finkelstein2012oregon}. We find that the use of machine learning and CML suggest larger positive effects on health care utilization than previously determined.
+    </details>
+  </dd>
+</dl>
+
 + [Debiasing with General Conditional Moments and High-Dimensional First Stages (2024).](https://drive.google.com/file/d/1FcaENurMO6LjXsmTFH4ZA9l6okjgQiBZ/view?usp=sharing)
 <dl style="margin-top: -10px;">
   <dd>
@@ -36,29 +47,3 @@ products. We apply our results to the Oregon Health Experiment to study heteroge
   </dd>
 </dl>
 
-
-+ [A Fully Non-Parametric Approach for Forecasting with Binary Panel Data Models (2021)](https://drive.google.com/file/d/1D1bWW8OL7EMFqvkJ7WB8rtwnjeedCvvq/view?usp=share_link) (Master's Thesis under the supervision of [Raquel Carrasco](https://scholar.google.es/citations?user=pMpB2gsAAAAJ&hl=e) and [Jesús Gonzalo.](https://www.eco.uc3m.es/~jgonzalo/)).
-<dl style="margin-top: -10px;">
-  <dd>
-    <details>
-      <summary>
-        Abstract
-      </summary>
-    This paper introduces a fully non-parametric approach for forecasting binary variables in a static panel data setting with strictly exogenous regressors, where N is large while T does not need to be large. The method does not make any assumption about the distribution of the errors of the model, the distribution of the individual effects, or even how the regressors and the associated parameters affect the dependent variable. The novelty of the technique relies on exploiting a sufficient statistic and using the fact that, under suitable conditions, this variable approximately follows the Poisson distribution. Built on this approximation, the approach applies the Tweedie's Formula, which allows identifying the one-step-ahead forecast of the outcome variable in this non-linear framework. The proposal can be easily extended to obtain predictions h-steps ahead. By means of numerous simulation exercises, the paper shows that the Tweedie's Forecast can achieve desirable forecast properties and be a satisfactory competitor against usual probit and logit models, regardless of numerous features of the data. Furthermore, this study applies the proposed approach to predict different health attributes (both physical and mental) for Spanish older adults, using grip strength as the predictor. Once again, the evidence indicates that the Tweedie's Forecast is able to systematically achieve good relative forecast accuracy.
-    </details>
-  </dd>
-</dl>
-
-
-+ [Productivity vs. Management: What Matters in the Export Process? (2018)](https://drive.google.com/file/d/1m-2sZ8UNMFSvLqU12fidA5H8K1TOKkxo/view?usp=sharing) (Bachelor's Thesis under the supervision of [María José Granado](https://face.unt.edu.ar/web/ieconomia/profesores/maria-jose-granado/)).
-<dl style="margin-top: -10px;">
-  <dd>
-    <details>
-      <summary>
-        Abstract
-      </summary>
-      In this paper, both a theoretical and an empirical model to study the contribution of productivity and management practices on exporter status are presented. On the theoretical side, a multiple heterogeneity model is developed, where firms can differ in their levels of two dierent kinds of productivity: in cost and in management, in a context of monopolistic competition. With this, in the autarkic case, the model achieves two conditions (Zero Cut-Off Profitt Condition and Free Entry Condition) that firstly determine which firms enter and produce in the market. Then, by opening the economy to the rest of the world, the model not only shows which firms survive in the domestic market but also which ones export. Therefore, the most productive firms would not necessarily export, because export decision also depends on how efectively firms carry out a set of management practices to adapt their product to foreign demand. On the empirical side, productivity and management practices at firm level are measured by using several methods and specications to identify their efect on exporter status, exploiting the waves of The World Bank Enterprise Surveys of 2006, 2010 and 2017 for Argentina. The main results indicate that both productivity and management practices
-affect positively the probability of being an exporter, and their effects are very similar in magnitude. Thanks to my work, I have identied some particular strategies firms should mainly focus on. Indeed, I suggest that obtaining ISO certications, offering training programs to employees and using services or programs to promote exports are important for being an exporter.
-    </details>
-  </dd>
-</dl>
