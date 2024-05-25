@@ -6,18 +6,6 @@ author_profile: true
 ---
 
 ### 2018 - 2024 
-+ Compliance Machine Learning Estimator, joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home) Draft coming soon.
-<dl style="margin-top: -10px;">
-  <dd>
-    <details>
-      <summary>
-        Abstract
-      </summary>
-Methods relying on instrumental variables (IVs) are known to be useful for learning treatment effects in experiments where treatment randomization is not possible. Often, the researcher can use a large class of potentially valid IVs, but is there an \textit{optimal} choice? If so, which one? In this paper, we argue that a measure of the ``strength" of the instrument as predictor of the treatment, conditional on pre-treatment characteristics, leads to an estimator that enjoys three \textit{key} properties: (1) local orthogonality, (2) identification of the parameter of interest under the minimal conditions, and (3) meaningful nonparametric interpretation in terms of conditional local treatment effects, even if defiers are not completely ruled out in the population. In the common situation where the treatment variable is binary, such strength is linked to the probability of complying with the treatment. Therefore, we name this estimator \textit{Compliance Machine Learning Estimator (CML)}. If the researcher's criterion of optimality involves these three attributes, then CML is the optimal choice. We provide theoretical guarantees that support the use of off-the-shelf routines to conduct standard inference on CML, when machine learning tools are used to construct the IV. We study the relative performance of this estimator through a Monte Carlo exercise. Finally, we revisit the Oregon Health Insurance Experiment, analyzed by \cite{finkelstein2012oregon}. We find that the use of machine learning and CML suggest larger positive effects on health care utilization than previously determined.
-    </details>
-  </dd>
-</dl>
-
 + [Debiasing with General Conditional Moments and High-Dimensional First Stages (2024).](https://drive.google.com/file/d/1FcaENurMO6LjXsmTFH4ZA9l6okjgQiBZ/view?usp=sharing)
 <dl style="margin-top: -10px;">
   <dd>
@@ -26,6 +14,18 @@ Methods relying on instrumental variables (IVs) are known to be useful for learn
         Abstract
       </summary>
 This paper proposes a method to conduct inference on a finite-dimensional parameter in models defined by a finite number of conditional moment restrictions (CMRs), with possibly different conditioning variables and endogenous regressors. Those conditional moments are allowed to depend on non-parametric components, which might be modeled flexibly using Machine Learning tools. Inference is based on locally robust/orthogonal/debiased moments, extended to the case with CMRs. These moments are less affected by regularization bias, which is relevant to machine learning first steps and typically invalidates standard inference.  Under weak smoothness conditions, we exploit the CMRs implied by the model in a general way. Thus, our strategy can be applied uniformly in various contexts where the construction of orthogonal moments has not been explored, such as non-linear GMM settings, models with missing data, production functions at the firm level, dynamic discrete choice models, and many others. Our approach converts a given function of the conditioning variables into a valid instrument that yields a debiased moment, justifying their use over other "ad-hoc" choices of instruments often used in applied work. We argue that this will necessarily require solving functional equations involving unknown terms directly linked to the particular model at hand. However, by imposing an approximate sparsity condition, our method automatically finds the solutions to those equations using a Lasso-type program and thus can be implemented straightforwardly in the same way, regardless of the particular model. Based on this, we introduce a GMM estimator of a finite-dimensional parameter in a Two-Step setting. We derive theoretical guarantees for our construction of orthogonal moments and show the asymptotic normality of the introduced estimator.
+    </details>
+  </dd>
+</dl>
+
++ Compliance Machine Learning Estimator, joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home) Draft coming soon.
+<dl style="margin-top: -10px;">
+  <dd>
+    <details>
+      <summary>
+        Abstract
+      </summary>
+Methods relying on instrumental variables (IVs) are known to be useful for learning treatment effects in experiments where treatment randomization is not possible. Often, the researcher can use a large class of potentially valid IVs, but is there an \textit{optimal} choice? If so, which one? In this paper, we argue that a measure of the ``strength" of the instrument as predictor of the treatment, conditional on pre-treatment characteristics, leads to an estimator that enjoys three \textit{key} properties: (1) local orthogonality, (2) identification of the parameter of interest under the minimal conditions, and (3) meaningful nonparametric interpretation in terms of conditional local treatment effects, even if defiers are not completely ruled out in the population. In the common situation where the treatment variable is binary, such strength is linked to the probability of complying with the treatment. Therefore, we name this estimator \textit{Compliance Machine Learning Estimator (CML)}. If the researcher's criterion of optimality involves these three attributes, then CML is the optimal choice. We provide theoretical guarantees that support the use of off-the-shelf routines to conduct standard inference on CML, when machine learning tools are used to construct the IV. We study the relative performance of this estimator through a Monte Carlo exercise. Finally, we revisit the Oregon Health Insurance Experiment, analyzed by \cite{finkelstein2012oregon}. We find that the use of machine learning and CML suggest larger positive effects on health care utilization than previously determined.
     </details>
   </dd>
 </dl>
