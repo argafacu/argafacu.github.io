@@ -17,7 +17,7 @@ I work on Econometrics. My research interests span identification, estimation, a
 
 I am writing my dissertation under the supervision of Prof. [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home)
 
-During the Spring of 2024, I will be visiting [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/).
+During the Spring of 2024, I was a visiting Ph.D. student at [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/).
 
 I will be on the **Academic Job Market 2024-2025**. 
 
