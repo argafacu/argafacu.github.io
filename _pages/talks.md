@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 #### 2022 - 2025
-+[Econometrics and Statistics Colloquium - The University of Chicago Booth School of Business](https://www.chicagobooth.edu/faculty/research-workshops/econometrics-and-statistics), Booth School of Business, Chicago, United States. May 30, 2024.
++ [Econometrics and Statistics Colloquium - The University of Chicago Booth School of Business](https://www.chicagobooth.edu/faculty/research-workshops/econometrics-and-statistics), Booth School of Business, Chicago, United States. May 30, 2024.
 
 + [**2023 IAAE Annual Conference**.](https://www.bi.edu/about-bi/events/2023/june/iaae2023/) BI Norwegian Business School, Oslo, Norway. June 27-30, 2023.
  
