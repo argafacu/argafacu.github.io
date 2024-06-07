@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 #### 2022 - 2025
-+ [**European Network for Training in Economic Research (ENTER) - Jamboree 2024**.]([https://www.chicagobooth.edu/faculty/research-workshops/econometrics-and-statistics](https://drive.google.com/file/d/1VtVmjw2Qd_ar4r7o6M6Jry1PS9UR0a5p/view?usp=sharing)) Université Libre de Bruxelles, Brussels, Belgium. June 3-4, 2024.
++ [**European Network for Training in Economic Research (ENTER) - Jamboree 2024**.](https://drive.google.com/file/d/1VtVmjw2Qd_ar4r7o6M6Jry1PS9UR0a5p/view?usp=sharing) Université Libre de Bruxelles, Brussels, Belgium. June 3-4, 2024.
   
 + [**Econometrics and Statistics Colloquium - The University of Chicago Booth School of Business**.](https://www.chicagobooth.edu/faculty/research-workshops/econometrics-and-statistics) Booth School of Business, Chicago, United States. May 30, 2024.
 
