@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2018 - 2024 
-+ [Debiasing Structural Parameters with General Conditional Moments and High-Dimensional First Stages (2024).](https://drive.google.com/file/d/1FcaENurMO6LjXsmTFH4ZA9l6okjgQiBZ/view?usp=sharing)
++ [Debiasing Structural Parameters with General Conditional Moments and High-Dimensional First Stages (2024).](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=sharing)
 <dl style="margin-top: -10px;">
   <dd>
     <details>
