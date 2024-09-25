@@ -13,7 +13,7 @@ Hey there! Welcome to my personal website.
 
 I am a fifth-year Economics Ph.D. student at [Universidad Carlos III de Madrid](http://economics.uc3m.es/). 
 
-I work on Econometrics. My research interests span identification, estimation, and inference of semiparametric models, and I am especially interested in causal inference with machine learning.
+I work on Econometrics. My research interests span identification, estimation, and inference of semiparametric models, and I am especially interested in causal inference using machine learning.
 
 I am writing my dissertation under the supervision of Prof. [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home)
 
