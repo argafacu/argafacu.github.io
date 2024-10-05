@@ -18,6 +18,18 @@ This paper proposes a method for conducting inference on finite-dimensional para
   </dd>
 </dl>
 
++ Debiasing General Functionals in Models with Conditional Moment Restrictions and Machine Learning First Steps (2024), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home).
+<dl style="margin-top: -10px;">
+  <dd>
+    <details>
+      <summary>
+        Abstract
+      </summary>
+Models with Conditional Moment Restrictions (CMRs) are popular in economics and statistics. These models involve finite and infinite dimensional parameters. The infinite dimensional components include conditional expectations, conditional choice probabilities, or policy functions, which might be flexibly estimated using Machine Learning tools. This paper presents a characterization of locally robust/debiased/orthogonal moments for regular models defined by general semiparametric CMRs with possibly different conditioning variables. These moments are appealing as they are known to be less affected by first-step bias, typically present in machine learning estimation. Additionally, we study their existence and relevance. Such results apply to a broad class of smooth functionals of finite and infinite dimensional parameters, appearing in the CMRs. As a leading application of our theory, we propose the Compliance Machine Learning Estimator (CML) for treatment effects with endogeneity.  CML enjoys three appealing properties in the standard local average treatment effect (LATE) framework: (1) local robustness to first-stage estimation, (2) a general relevance condition, and (3) a meaningful causal interpretation. Our numerical experimentation shows satisfactory performance of such an estimator in finite samples, across different DGPs. Finally, we revisit the Oregon Health Insurance Experiment, analyzed by Finkelstein et al. (2012). We find that the use of machine learning and CML suggest larger positive effects on health care utilization than previously determined.
+    </details>
+  </dd>
+</dl>
+
 + [On the Existence and Information of Orthogonal Moments (2023)](https://arxiv.org/abs/2303.11418), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home) [Supplementary Appendix](https://drive.google.com/file/d/1X8gtzjNk1g1mZxBONcD3vbVMuBKHQJDC/view?usp=sharing)
 <dl style="margin-top: -10px;">
   <dd>
