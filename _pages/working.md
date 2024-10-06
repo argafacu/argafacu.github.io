@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2023 - 2024 
-+ [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link).
++ [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/16kq9tjn4jZ53eRkNUvrj0kXFQl3YVS4P/view?usp=sharing).
 <dl style="margin-top: -10px;">
   <dd>
     <details>
