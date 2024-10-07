@@ -17,5 +17,5 @@ author_profile: true
 
 + **Macroeconomics III**. Undergrad course. *Universidad Nacional de Tucumán, Department of Economics*. Teaching Assistant. 2019. 
 + **Econometrics I**. Undergrad course. *Universidad Nacional de Tucumán, Department of Economics*. Teaching Assistant. 2017-2018. 
-+ **Microeconomics I**. Undergrad course. *Universidad Nacional de Tucumán, Department of Economics*. Teaching Assistant. 2015-2017. 
++ **Microeconomics I**. Undergrad course. *Universidad Nacional de Tucumán, Department of Economics*. Teaching Assistant. 2015-2016. 
 
