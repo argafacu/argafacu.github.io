@@ -15,10 +15,14 @@ I am a sixth-year Economics Ph.D. student at [Universidad Carlos III de Madrid](
 
 I work on Econometrics. My research interests span identification, estimation, and inference of semiparametric models, and I am especially interested in causal inference using machine learning.
 
+I will be on the **Academic Job Market 2024-2025**. 
+
+My JMP is [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link).
+
 I am writing my dissertation under the supervision of Prof. [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home)
 
 During the Spring of 2024, I was a visiting Ph.D. student at [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/).
 
-I will be on the **Academic Job Market 2024-2025**. 
+
 
 This is my [cv](http://argafacu.github.io/files/CV_FacundoArga_araz.pdf).
