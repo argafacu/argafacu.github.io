@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2023 - 2024 
-+ [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link).
++ [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link) (Job Market Paper).
 <dl style="margin-top: -10px;">
   <dd>
     <details>
@@ -18,14 +18,14 @@ This paper proposes a method for conducting inference on finite-dimensional para
   </dd>
 </dl>
 
-+ Debiasing General Functionals in Models with Conditional Moment Restrictions and Machine Learning First Steps (2024), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home).
++ [Machine Learning Debiasing with Conditional Moment Restrictions: An Application to LATE (2024)](https://drive.google.com/file/d/1NFjvwE7K42vZtmqxR8tSUm4NhgPcNjN-/view?usp=drive_link), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home).
 <dl style="margin-top: -10px;">
   <dd>
     <details>
       <summary>
         Abstract
       </summary>
-Models with Conditional Moment Restrictions (CMRs) are popular in economics and statistics. These models involve finite and infinite dimensional parameters. The infinite dimensional components include conditional expectations, conditional choice probabilities, or policy functions, which might be flexibly estimated using Machine Learning tools. This paper presents a characterization of locally robust/debiased/orthogonal moments for regular models defined by general semiparametric CMRs with possibly different conditioning variables. These moments are appealing as they are known to be less affected by first-step bias, typically present in machine learning estimation. Additionally, we study their existence and relevance. Such results apply to a broad class of smooth functionals of finite and infinite dimensional parameters, appearing in the CMRs. As a leading application of our theory, we propose the Compliance Machine Learning Estimator (CML) for treatment effects with endogeneity.  CML enjoys three appealing properties in the standard local average treatment effect (LATE) framework: (1) local robustness to first-stage estimation, (2) a general relevance condition, and (3) a meaningful causal interpretation. Our numerical experimentation shows satisfactory performance of such an estimator in finite samples, across different DGPs. Finally, we revisit the Oregon Health Insurance Experiment, analyzed by Finkelstein et al. (2012). We find that the use of machine learning and CML suggest larger positive effects on health care utilization than previously determined.
+Models with Conditional Moment Restrictions (CMRs) are popular in economics. These models involve finite and infinite dimensional parameters. The infinite dimensional components include conditional expectations, conditional choice probabilities, or policy functions, which might be flexibly estimated using Machine Learning tools. This paper presents a characterization of locally debiased moments for regular models defined by general semiparametric CMRs with possibly different conditioning variables. These moments are appealing as they are known to be less affected by first-step bias. Additionally, we study their existence and relevance. Such results apply to a broad class of smooth functionals of finite and infinite dimensional parameters that do not necessarily appear in the CMRs. As a leading application of our theory, we characterize debiased machine learning for settings of treatment effects with endogeneity, giving necessary and sufficient conditions. We present a large class of relevant debiased moments in this context. We then propose the Compliance Machine Learning Estimator (CML), based on a practically convenient orthogonal relevant moment. We show that the resulting estimand can be written as a convex combination of conditional local average treatment effects (LATE). Altogether, CML enjoys three appealing properties in the LATE framework: (1) local robustness to first-stage estimation, (2) an estimand that can be identified under a minimal relevance condition, and (3) a meaningful causal interpretation. Our numerical experimentation shows satisfactory relative performance of such an estimator. Finally, we revisit the Oregon Health Insurance Experiment, analyzed by Finkelstein et al. (2012)}. We find that the use of machine learning and CML suggest larger positive effects on health care utilization than previously determined.
     </details>
   </dd>
 </dl>
