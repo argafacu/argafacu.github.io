@@ -25,4 +25,4 @@ During the Spring of 2024, I was a visiting Ph.D. student at [The University of 
 
 
 
-This is my [cv](http://argafacu.github.io/files/CV_FacundoArga_araz.pdf).
+This is my [cv](http://argafacu.github.io/files/cvFacundoArganaraz.pdf).
