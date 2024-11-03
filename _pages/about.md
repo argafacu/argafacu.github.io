@@ -17,7 +17,7 @@ I work on Econometrics. My research interests span identification, estimation, a
 
 I will be on the **Academic Job Market 2024-2025**. 
 
-My JMP is [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link).
+My Job Market Paper is [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link).
 
 I am writing my dissertation under the supervision of Prof. [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home)
 
