@@ -19,8 +19,5 @@ I am on the **Academic Job Market 2024-2025**.
 
 My Job Market Paper is [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link).
 
-In Spring 2024, I visited [The University of Chicago Booth School of Business](https://www.chicagobooth.edu/).
-
-
 
 This is my [cv](http://argafacu.github.io/files/cvFacundoArganaraz.pdf).
