@@ -18,7 +18,7 @@ This paper proposes a method for conducting inference on finite-dimensional para
   </dd>
 </dl>
 
-+ [Machine Learning Debiasing with Conditional Moment Restrictions: An Application to LATE (2024)](https://arxiv.org/abs/2410.23785), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home).
++ [Machine Learning Debiasing with Conditional Moment Restrictions: An Application to LATE (2024)](https://arxiv.org/abs/2410.23785), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home)
 <dl style="margin-top: -10px;">
   <dd>
     <details>
