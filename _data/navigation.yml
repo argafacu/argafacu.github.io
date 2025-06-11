@@ -8,5 +8,7 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+    - title: "Packages"
+    url: /coding/
  
