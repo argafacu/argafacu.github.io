@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Codes and Packages"
+title: "Packages"
 permalink: /coding/
 author_profile: true
 ---
