@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 #### 2022 - 2025
++ [**7th QMUL Economics and Finance Workshop for PhD & Post-doctoral Students**.](https://www.qmul.ac.uk/sef/events/conferences/items/7th-qmul-economics-and-finance-workshop-for-phd--post-doctoral-students.html) Queen Mary University of London, London, UK. May 22-23, 2025.
+  
 + [**49th Simposio de la Asociación Española de Economía (SAEe 2024)**.](https://asesec.org/simposio-de-la-asociacion-espanola-de-economia/) Universitat de les Illes Balears, Palma (Mallorca), Spain. December 16-18, 2024.
   
 + [**European Network for Training in Economic Research (ENTER) - Jamboree 2024**.](https://drive.google.com/file/d/1VtVmjw2Qd_ar4r7o6M6Jry1PS9UR0a5p/view?usp=sharing) Université Libre de Bruxelles, Brussels, Belgium. June 3-4, 2024.
