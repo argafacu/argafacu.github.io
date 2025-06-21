@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 #### 2022 - 2025
-+ [**7th QMUL Economics and Finance Workshop for PhD & Post-doctoral Students**.](https://www.qmul.ac.uk/sef/events/conferences/items/7th-qmul-economics-and-finance-workshop-for-phd--post-doctoral-students.html) Queen Mary University of London, London, UK. May 22-23, 2025.
++ [**7th QMUL Economics and Finance Workshop for PhD & Post-doctoral Students**.](https://www.qmul.ac.uk/sef/events/conferences/items/7th-qmul-economics-and-finance-workshop-for-phd--post-doctoral-students.html) Queen Mary University of London, London, UK. May 22-23, 2025. Best Paper Acknowledgement.
   
 + [**49th Simposio de la Asociación Española de Economía (SAEe 2024)**.](https://asesec.org/simposio-de-la-asociacion-espanola-de-economia/) Universitat de les Illes Balears, Palma (Mallorca), Spain. December 16-18, 2024.
   
