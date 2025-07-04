@@ -11,8 +11,6 @@ redirect_from:
 Hey there! Welcome to my personal website.  
 ====
 
-I am a Ph.D. candidate in Economics at [Universidad Carlos III de Madrid](http://economics.uc3m.es/). 
-
 I work on Econometrics. My research interests span identification, estimation, and inference of semiparametric models, and I am especially interested in causal inference using machine learning.
 
 In the Fall of 2025, I will join the [Department of Economics at Sciences Po, Paris](https://www.sciencespo.fr/department-economics/) as an Assistant Professor. 
