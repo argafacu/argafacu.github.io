@@ -5,7 +5,18 @@ permalink: /working/
 author_profile: true
 ---
 
-### 2023 - 2024 
+### 2023 - 2025
++[Randomly Assigned First Differences?](https://arxiv.org/abs/2411.03208), joint with [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) and [Ziteng Lei](https://zitenglei.weebly.com/).
+<dl style="margin-top: -10px;">
+  <dd>
+    <details>
+      <summary>
+        Abstract
+      </summary>
+We consider treatment-effect estimation using a first-difference regression of an outcome evolution $`\Delta Y`$ on a treatment evolution $`\Delta D`$. Under a causal model in levels with a time-varying effect, the regression residual is a function of the period-one treatment $`D_1`$. Then, researchers should test if $`\Delta D`$ and $`D_1`$ are correlated: if they are, the regression may suffer from an omitted variable bias. To solve it, researchers may control nonparametrically for $`\mathbb{E}\left[\Delta D|D_1\right]`$. We use our results to revisit first-difference regressions estimated on the data of Acemoglu et al. (2016), who study the effect of imports from China on US employment. $`\Delta D`$ and $`D_1`$ are strongly correlated, thus implying that first-difference regressions may be biased if the effect of Chinese imports changes over time. The coefficient on  $`\Delta D`$ is no longer significant when controlling for $`\mathbb{E}\left[\Delta D|D_1\right]`$.
+    </details>
+  </dd>
+</dl>
 + [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link) (Job Market Paper).
 <dl style="margin-top: -10px;">
   <dd>
