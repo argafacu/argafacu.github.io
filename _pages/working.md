@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2023 - 2025
-+[Randomly Assigned First Differences?](https://arxiv.org/abs/2411.03208), joint with [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) and [Ziteng Lei](https://zitenglei.weebly.com/).
++ [Randomly Assigned First Differences?](https://arxiv.org/abs/2411.03208), joint with [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) and [Ziteng Lei](https://zitenglei.weebly.com/).
 <dl style="margin-top: -10px;">
   <dd>
     <details>
@@ -17,6 +17,7 @@ We consider treatment-effect estimation using a first-difference regression of a
     </details>
   </dd>
 </dl>
+
 + [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link) (Job Market Paper).
 <dl style="margin-top: -10px;">
   <dd>
