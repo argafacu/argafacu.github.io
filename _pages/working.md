@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2023 - 2025
-+ [Randomly Assigned First Differences?](https://arxiv.org/abs/2411.03208), joint with [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) and [Ziteng Lei](https://zitenglei.weebly.com/).
++ [Randomly Assigned First Differences? (2025)](https://arxiv.org/abs/2411.03208), joint with [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) and [Ziteng Lei](https://zitenglei.weebly.com/).
 <dl style="margin-top: -10px;">
   <dd>
     <details>
