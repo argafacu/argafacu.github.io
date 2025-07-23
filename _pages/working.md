@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### 2023 - 2025
-+ [Debiased Machine Learning for Unobserved Heterogeneity: High-Dimensional Panels and Measurement Error Models (2025)](https://arxiv.org/abs/2507.13788), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home).
++ [Debiased Machine Learning for Unobserved Heterogeneity: High-Dimensional Panels and Measurement Error Models (2025)](https://arxiv.org/abs/2507.13788), joint with [Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home).
 <dl style="margin-top: -10px;">
   <dd>
     <details>
@@ -42,7 +42,7 @@ This paper proposes a method for conducting inference on finite-dimensional para
   </dd>
 </dl>
 
-+ [Machine Learning Debiasing with Conditional Moment Restrictions: An Application to LATE (2024)](https://arxiv.org/abs/2410.23785), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home)
++ [Machine Learning Debiasing with Conditional Moment Restrictions: An Application to LATE (2024)](https://arxiv.org/abs/2410.23785), joint with [Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home).
 <dl style="margin-top: -10px;">
   <dd>
     <details>
@@ -54,7 +54,7 @@ Models with Conditional Moment Restrictions (CMRs) are popular in economics. The
   </dd>
 </dl>
 
-+ [On the Existence and Information of Orthogonal Moments (2023)](https://arxiv.org/abs/2303.11418), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home) [Supplementary Appendix](https://drive.google.com/file/d/1X8gtzjNk1g1mZxBONcD3vbVMuBKHQJDC/view?usp=sharing)
++ [On the Existence and Information of Orthogonal Moments (2023)](https://arxiv.org/abs/2303.11418), joint with [Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home). [Supplementary Appendix](https://drive.google.com/file/d/1X8gtzjNk1g1mZxBONcD3vbVMuBKHQJDC/view?usp=sharing)
 <dl style="margin-top: -10px;">
   <dd>
     <details>
