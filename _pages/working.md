@@ -6,6 +6,18 @@ author_profile: true
 ---
 
 ### 2023 - 2025
++ [Debiased Machine Learning for Unobserved Heterogeneity: High-Dimensional Panels and Measurement Error Models (2025)](https://arxiv.org/abs/2507.13788), joint with [Juan Carlos Escanciano.](https://sites.google.com/view/juancarlosescanciano/home).
+<dl style="margin-top: -10px;">
+  <dd>
+    <details>
+      <summary>
+        Abstract
+      </summary>
+Developing robust inference for models with nonparametric Unobserved Heterogeneity (UH) is both important and challenging. We propose novel Debiased Machine Learning (DML) procedures for valid inference on functionals of UH, allowing for partial identification of multivariate target and high-dimensional nuisance parameters. Our main contribution is a full characterization of all relevant Neyman-orthogonal moments in models with nonparametric UH, where relevance means informativeness about the parameter of interest. Under additional support conditions, orthogonal moments are globally robust to the distribution of the UH. They may still involve other high-dimensional nuisance parameters, but their local robustness reduces regularization bias and enables valid DML inference. We apply these results to: (i) common parameters, average marginal effects, and variances of UH in panel data models with high-dimensional controls; (ii) moments of the common factor in the Kotlarski model with a factor loading; and (iii) smooth functionals of teacher value-added. Monte Carlo simulations show substantial efficiency gains from using efficient orthogonal moments relative to ad-hoc choices. We illustrate the practical value of our approach by showing that existing estimates of the average and variance effects of maternal smoking on child birth weight are robust.
+    </details>
+  </dd>
+</dl>
+
 + [Randomly Assigned First Differences? (2025)](https://arxiv.org/abs/2411.03208), joint with [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) and [Ziteng Lei](https://zitenglei.weebly.com/).
 <dl style="margin-top: -10px;">
   <dd>
