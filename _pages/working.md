@@ -30,7 +30,7 @@ We consider treatment-effect estimation using a first-difference regression of a
   </dd>
 </dl>
 
-+ [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://drive.google.com/file/d/1DjzGPdIens-Wrpfc6JrvFUWu71lnj7zg/view?usp=drive_link) (Job Market Paper).
++ [Automatic Debiased Machine Learning of Structural Parameters with General Conditional Moments (2024)](https://arxiv.org/abs/2512.08423) (Job Market Paper).
 <dl style="margin-top: -10px;">
   <dd>
     <details>
