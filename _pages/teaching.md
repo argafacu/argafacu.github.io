@@ -7,8 +7,8 @@ author_profile: true
 
 #### 2025 - 2030
 
-+ **Econometrics 2: Estimation and Inference**. *Sciences Po, Department of Economics*. Main Instructor. 2026-. [Syllabus](https://drive.google.com/file/d/1PnSrIa4hw8_bupXetsF_djDLSnx8BGJ3/view?usp=sharing).
-+ **Advanced Econometrics**. *Sciences Po, Department of Economics*. Main Instructor. 2026-. [Syllabus](https://drive.google.com/file/d/1HwZr4YPYmFIBzHPWCYe4ZKisN27_V5W_/view?usp=sharing).
++ **Econometrics 2: Estimation and Inference**. Master in Economics. *Sciences Po, Department of Economics*. Main Instructor. 2026-. [Syllabus](https://drive.google.com/file/d/1PnSrIa4hw8_bupXetsF_djDLSnx8BGJ3/view?usp=sharing).
++ **Advanced Econometrics**. Undergrad course. *Sciences Po, Department of Economics*. Main Instructor. 2026-. [Syllabus](https://drive.google.com/file/d/1HwZr4YPYmFIBzHPWCYe4ZKisN27_V5W_/view?usp=sharing).
 
 
 #### 2020 - 2024 
