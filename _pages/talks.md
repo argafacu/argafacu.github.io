@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 #### 2022 - 2025
++ [**Encounters in Econometric Theory 2026**.](https://encounterseconometrictheory.github.io/EET_2026.github.io/) Nuffield College, University of Oxford, Oxford, United Kingdom, May 14-15, 2026.
+
 + [**2025 European Winter Meeting of the Econometric Society**.](https://cyprusconferences.org/ewmes2025/) University of Cyprus, Nicosia, Cyprus. December 7-9, 2025.
   
 + [**Microeconometrics Class of 2025 Conference**.](https://sites.northwestern.edu/cfe/conference-of-former-northwestern-econometrics-students-2025/) Northwestern University, Evanston, United States. September 19-20, 2025.
