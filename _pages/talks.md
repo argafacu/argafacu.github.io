@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 #### 2022 - 2025
-+[2026 ESIF Economics and AI+ML Meeting of the Econometric Society.](https://www.econometricsociety.org/uploads/meetings/esifaiml2026/programspynopsis.pdf) Cornell University, Ithaca, United States. June 16-17, 2026.
++ [2026 ESIF Economics and AI+ML Meeting of the Econometric Society.](https://www.econometricsociety.org/uploads/meetings/esifaiml2026/programspynopsis.pdf) Cornell University, Ithaca, United States. June 16-17, 2026.
 
 + [**Encounters in Econometric Theory 2026**.](https://encounterseconometrictheory.github.io/EET_2026.github.io/) Nuffield College, University of Oxford, Oxford, United Kingdom, May 14-15, 2026.
 
