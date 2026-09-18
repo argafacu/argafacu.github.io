@@ -5,7 +5,20 @@ permalink: /working/
 author_profile: true
 ---
 
-### 2023 - 2025
+### 2023 - 2026
+
++ [When Is Neyman-Orthogonal Inference Feasible? Existence and Relevance (2026)](https://arxiv.org/abs/2303.11418), joint with [Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home). New version. 
+<dl style="margin-top: -10px;">
+  <dd>
+    <details>
+      <summary>
+        Abstract
+      </summary>
+Neyman-orthogonal moments underpin debiased and double machine learning, yet their existence and informativeness are typically presumed. We characterize two oracle properties that orthogonal inference presupposes for a target--model pair: existence and relevance. Under conditions ensuring attainability by valid moment functions, nontrivial orthogonal moments exist when fixing the target restricts the observed-data distribution to first order---\emph{restricted local overidentification}. Under suitable target coordinates, informative moments exist when effective Fisher information is nonzero. Its rank---the \emph{relevance rank}---counts informative target directions: orthogonalization isolates information but cannot create it. Moment Jacobians give lower bounds on this rank; target changes offset by nuisance adjustments give upper bounds. When these bounds coincide, they identify the relevance rank without efficiency bounds calculations. Two examples illustrate the feasibility frontier. In sample selection without covariate exclusions, we characterize all orthogonal moments and obtain identification-robust inference under rank deficiency. In latent-variable models, an exact RKHS representation reveals why important distributional and threshold-policy targets admit no informative orthogonal moments.
+    </details>
+  </dd>
+</dl>
+
 + [Debiased Machine Learning for Unobserved Heterogeneity: High-Dimensional Panels and Measurement Error Models (2025)](https://arxiv.org/abs/2507.13788), joint with [Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home).
 <dl style="margin-top: -10px;">
   <dd>
@@ -55,20 +68,5 @@ Models with Conditional Moment Restrictions (CMRs) are popular in economics. The
   </dd>
 </dl>
 
-+ [On the Existence and Information of Orthogonal Moments (2023)](https://arxiv.org/abs/2303.11418), joint with [Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home). [Supplementary Appendix](https://drive.google.com/file/d/1X8gtzjNk1g1mZxBONcD3vbVMuBKHQJDC/view?usp=sharing)
-<dl style="margin-top: -10px;">
-  <dd>
-    <details>
-      <summary>
-        Abstract
-      </summary>
-Locally Robust (LR)/Orthogonal/Debiased moments have proven useful with machine learning first steps, but their existence has not been investigated for general parameters. In this paper, we provide a necessary and sufficient condition, referred to as Restricted Local Non-surjectivity (RLN), for the existence of such orthogonal moments to conduct robust
-inference on general parameters of interest in regular semiparametric models. In addition, we study when score-type tests based on orthogonal moments are locally informative at
-the parametric rate. We demonstrate the utility of our general results by characterizing orthogonal moments in a class of models with unobserved heterogeneity (UH). Orthogonality
-for general smooth functionals of the distribution of UH is also characterized. As a second major application, we find orthogonal moments for general conditional moments models,
-including the fully saturated two stage least squares, heterogeneous parameters in treatment effects, sample selection models, and popular models of demand for differentiated
-products. We apply our results to the Oregon Health Experiment to study heterogeneous treatment effects of Medicaid on different health outcomes.
-    </details>
-  </dd>
-</dl>
+
 
