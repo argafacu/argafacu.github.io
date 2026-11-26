@@ -70,5 +70,5 @@ Models with Conditional Moment Restrictions (CMRs) are popular in economics. The
 
 #### Work in Progress
 
-+ Optimal Estimation and Inference for Weakly-Identified Production Functions, joint with [Tom Glinnan](https://tomglinnan.github.io/#top) and [Stefany Burbano](https://stefany-burbano.github.io/)
++ Optimal Estimation and Inference for Weakly-Identified Production Functions, joint with [Tom Glinnan](https://tomglinnan.github.io/#top) and [Stefany Burbano](https://stefany-burbano.github.io/).
 
