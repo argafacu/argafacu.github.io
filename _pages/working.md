@@ -5,7 +5,7 @@ permalink: /working/
 author_profile: true
 ---
 
-### 2023 - 2026
+### Working Papers
 
 + [When Is Neyman-Orthogonal Inference Feasible? Existence and Relevance (2026)](https://arxiv.org/abs/2303.11418), joint with [Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home). New version. 
 <dl style="margin-top: -10px;">
